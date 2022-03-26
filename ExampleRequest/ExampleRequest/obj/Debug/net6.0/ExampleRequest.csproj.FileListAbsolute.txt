@@ -1,0 +1,15 @@
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.csproj.AssemblyReference.cache
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.AssemblyInfoInputs.cache
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.AssemblyInfo.cs
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.csproj.CoreCompileInputs.cache
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\bin\Debug\net6.0\ExampleRequest.exe
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\bin\Debug\net6.0\ExampleRequest.deps.json
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\bin\Debug\net6.0\ExampleRequest.runtimeconfig.json
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\bin\Debug\net6.0\ExampleRequest.dll
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\bin\Debug\net6.0\ExampleRequest.pdb
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.dll
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\refint\ExampleRequest.dll
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.pdb
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ExampleRequest.genruntimeconfig.cache
+C:\Users\Seraphim\source\repos\ExampleRequest\ExampleRequest\obj\Debug\net6.0\ref\ExampleRequest.dll

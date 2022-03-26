@@ -1,0 +1,8 @@
+C:\Users\Seraphim\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\Seraphim\source\repos\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\Seraphim\source\repos\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\Seraphim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.AssemblyReference.cache
+C:\Users\Seraphim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.SuggestedBindingRedirects.cache
+C:\Users\Seraphim\source\repos\Temperature\Temperature\obj\Debug\Temperature.csproj.CoreCompileInputs.cache
+C:\Users\Seraphim\source\repos\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\Seraphim\source\repos\Temperature\Temperature\obj\Debug\Temperature.pdb
